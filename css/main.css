@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fon-2 {
+    background-image: url(/img/fon-2.jpg);
+    position: absolute;
+    padding: 0 auto;
+    width: 1920px;
+    height: 1080px;
+}
+.elka2 {
+    width: 900px;
+    height: 1000px;
+    position: absolute;
+    left: 150px;
+    top: 100px;
+}
+.lights-5 {
+    width: 900px;
+    height: 1000px;
+    position: absolute;
+    object-fit: fill;
+    left: 129px;
+    top: -110px;
+}
+
+.razmer {
+    height: 100%;
+}
+.toy {
+    width: 42px;
+    height: 64px;
+    position: relative;
+}
+.t1 {
+    top: -700px;
+    left: 370px;
+}
+.t2 {
+    top: -800px;
+    left: 470px;
+}
+.t3 {
+    top: -780px;
+    left: 540px;
+}
+.t4 {
+    top: -715px;
+    left: 315px;
+}
+.t5 {
+    top: -800px;
+    left: 455px;
+}
+.t6 {
+    top: -730px;
+    left: 625px;
+}
+.t7 {
+    top: -770px;
+    left: 275px;
+}
+.t8 {
+    top: -740px;
+    left: 485px;
+}
+.t9 {
+    top: -715px;
+    left: 200px;
+}
+.t10 {
+    top: -825px;
+    left: 700px;
+}
+.t11 {
+    top: -1045px;
+    left: 425px;
+}
+.t12 {
+    top: -875px;
+    left: 370px;
+}
+
+.present {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+}
+.p1 {
+    top: 795px;
+    left: 430px;
+}
+.p2 {
+    top: 775px;
+    left: 270px;
+}
+.p3 {
+    top: 775px;
+    left: 560px;
+}
